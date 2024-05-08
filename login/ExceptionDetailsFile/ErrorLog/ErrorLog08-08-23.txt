@@ -1,0 +1,24 @@
+-----------Exception Details on  08-08-2023 16:55:02-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08-08-2023 16:55:02
+
+Error Line No : line 42
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid column name 'tyut'.
+
+ Error Page Url: 
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

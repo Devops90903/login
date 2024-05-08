@@ -1,0 +1,10 @@
+C:\Users\kaustubh.wavare\source\repos\login\login\bin\Debug\login.exe.config
+C:\Users\kaustubh.wavare\source\repos\login\login\bin\Debug\login.exe
+C:\Users\kaustubh.wavare\source\repos\login\login\bin\Debug\login.pdb
+C:\Users\kaustubh.wavare\source\repos\login\login\obj\Debug\login.csprojAssemblyReference.cache
+C:\Users\kaustubh.wavare\source\repos\login\login\obj\Debug\login.Form1.resources
+C:\Users\kaustubh.wavare\source\repos\login\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\kaustubh.wavare\source\repos\login\login\obj\Debug\login.csproj.GenerateResource.cache
+C:\Users\kaustubh.wavare\source\repos\login\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+C:\Users\kaustubh.wavare\source\repos\login\login\obj\Debug\login.exe
+C:\Users\kaustubh.wavare\source\repos\login\login\obj\Debug\login.pdb
